@@ -1,0 +1,22 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "nama": "Iyek Company",
+      "image": "project-1.png",
+      "deskripsi": "Project Iyek Company ini adalah project akhir kuliah saya pada mata kuliah workshop desain web, Project ini menggunakan salah satu framework JS yang sedang populer saat ini yaitu ReactJS."
+    },
+    {
+      "id": 2,
+      "nama": "BMI",
+      "image": "project-2.png",
+      "deskripsi": "Project BMI ini adalah salah project di Komunitas Sumenep DEV, yang kebetulan saya ditugaskan untuk menggarap project ini, Project BMI dikerjakan oleh 4 orang, 2 Orang Frontend dan 2 Orang Backend. Saya sendiri ditugaskan menjadi frontend developer. Project ini menngunakan salah satu teknologi framework PHP terpopuler yaitu Laravel. Project ini masih dalam tahap pengembangan"
+    },
+    {
+      "id": 3,
+      "nama": "Nobar 21",
+      "image": "project-3.png",
+      "deskripsi": "Project Nobar 21 ini adalah project iseng - iseng saya, atau bisa disebut Project pembelajaran saya. Project Nobar 21 ini merupakan aplikasi web yang dapat digunakan untuk mencari Film terbaru saat ini. Kedepannya Project ini akan lebih saya kembangkan lagi."
+    }
+  ]
+}
