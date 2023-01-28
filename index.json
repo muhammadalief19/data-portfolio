@@ -4,19 +4,36 @@
       "id": 1,
       "nama": "Iyek Company",
       "image": "project-1.png",
-      "deskripsi": "Project Iyek Company ini adalah project akhir kuliah saya pada mata kuliah workshop desain web, Project ini menggunakan salah satu framework JS yang sedang populer saat ini yaitu ReactJS."
+      "deskripsi": "Project Iyek Company ini adalah project akhir kuliah saya pada mata kuliah workshop desain web, Project ini menggunakan salah satu framework JS yang sedang populer saat ini yaitu ReactJS.",
+      "link": "https://iyek-company.vercel.app/"
     },
     {
       "id": 2,
       "nama": "BMI",
       "image": "project-2.png",
-      "deskripsi": "Project BMI ini adalah salah project di Komunitas Sumenep DEV, yang kebetulan saya ditugaskan untuk menggarap project ini, Project BMI dikerjakan oleh 4 orang, 2 Orang Frontend dan 2 Orang Backend. Saya sendiri ditugaskan menjadi frontend developer. Project ini menngunakan salah satu teknologi framework PHP terpopuler yaitu Laravel. Project ini masih dalam tahap pengembangan"
+      "deskripsi": "Project BMI ini adalah salah project di Komunitas Sumenep DEV, yang kebetulan saya ditugaskan untuk menggarap project ini, Project BMI dikerjakan oleh 4 orang, 2 Orang Frontend dan 2 Orang Backend. Saya sendiri ditugaskan menjadi frontend developer. Project ini menngunakan salah satu teknologi framework PHP terpopuler yaitu Laravel. Project ini masih dalam tahap pengembangan",
+      "link": "Masih dalam tahap pengembangan"
     },
     {
       "id": 3,
       "nama": "Nobar 21",
       "image": "project-3.png",
-      "deskripsi": "Project Nobar 21 ini adalah project iseng - iseng saya, atau bisa disebut Project pembelajaran saya. Project Nobar 21 ini merupakan aplikasi web yang dapat digunakan untuk mencari Film terbaru saat ini. Kedepannya Project ini akan lebih saya kembangkan lagi."
+      "deskripsi": "Project Nobar 21 ini adalah project iseng - iseng saya, atau bisa disebut Project pembelajaran saya. Project Nobar 21 ini merupakan aplikasi web yang dapat digunakan untuk mencari Film terbaru saat ini. Kedepannya Project ini akan lebih saya kembangkan lagi.",
+      "link": "https://nobarpilm21.vercel.app/"
+    },
+    {
+      "id": 4,
+      "nama": "Web Webinar",
+      "image": "project-4.png",
+      "deskripsi": "Project Web Webinar ini adalah project dari tugas kuliah membuat webinar. Saya mengambil tema webinar Membuat Website Sederhana dengan HTML, CSS, JS dan TailwindCSS",
+      "link": "https://muhammadalief19.github.io/web-webinar/"
+    },
+    {
+      "id": 5,
+      "nama": "Web Portfolio",
+      "image": "project-5.png",
+      "deskripsi": "Project Portfolio ini adalah hasil dari iseng iseng saya belejar membuat Website sederhana, sebagai latihan saya membuat website portfolio ini. Website ini dikembangkan menggunakan HTML, CSS, JS dan Tailwind CSS. Website ini juga sebagai bukti pertama saya menggunakan framework TailwindCSS.",
+      "link": "https://muhammadalief19.github.io"
     }
   ]
 }
